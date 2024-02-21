@@ -4,3 +4,4 @@ text conflict di master
 test merging di development
 conflict
 merge conflict
+check tanda ------
