@@ -4,3 +4,4 @@ Update Text Lagi
 test branch master update
 test change
 test conflict
+merge conflict
