@@ -3,3 +3,4 @@ Text 3 Updated in Pertemuan 1
 text conflict di master
 test merging di development
 conflict
+merge conflict
