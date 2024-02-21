@@ -1,7 +1,4 @@
 Text 3 Tugas Pertemuan 1
 Text 3 Updated in Pertemuan 1
-text conflict di master
-test merging di development
-conflict
-mergin conflict juga
-check tanda <<<<>>>>
+Update Text Lagi
+test branch master update
